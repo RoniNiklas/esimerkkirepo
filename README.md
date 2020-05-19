@@ -1,4 +1,4 @@
 # esimerkkirepo
-abc
-kissa kävelee
-tikapuita pitkin taivaaseen
+abc  
+kissa kävelee  
+tikapuita pitkin taivaaseen  
