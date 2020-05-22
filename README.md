@@ -1,5 +1,5 @@
 # esimerkkirepo
 abc  
 kissa kävelee  
-tikapuita pitkin taivaaseen
-+5
+tikapuita pitkin taivaaseen  
++3
